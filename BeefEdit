@@ -1,1 +1,5 @@
 First try ?
+
+beaf = "Beef"
+
+print(beaf)
